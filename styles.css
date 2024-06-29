@@ -1,0 +1,88 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.navbar {
+	background-color: purple;
+	font-family: "Verdana";
+	font-size: 200%;
+	text-align: center;
+	text-shadow: 2px 2px 8px black;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+
+body {
+	background-color: black;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+}
+
+
+.name {
+	color: yellow;
+	font-family: "Zeyada";
+	font-size: 500%;
+	text-align: center;
+	text-shadow: 4px 4px 16px grey;
+	padding-top: 25%;
+	line-height: 100px;
+}
+
+.job_title {
+	color: powderblue;
+	font-family: "Verdana";
+	font-size: 150%;
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.about_me {
+	color: white;
+	font-family: "Verdana";
+	font-size: 100%;
+	text-align: center;
+	padding-right: 12%;
+	padding-left: 12%;
+}
+
+.space_image {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100vw;
+	background-color: teal;
+	color: black;
+	font-family: "Verdana";
+	font-size: 100%;
+	text-align: right;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.contact {
+	color: white;
+}
+
+.skills {
+	color: white;
+}
+
+.bold_text {
+	font-weight: bold;
+	color: yellow;
+}
+
+.projects {
+	color: white;
+	text-align: center;
+	padding-top: 30%;
+}
